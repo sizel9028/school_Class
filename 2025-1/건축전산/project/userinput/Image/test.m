@@ -1,0 +1,1 @@
+[Truss, dummy] = convertImage('image.png');
